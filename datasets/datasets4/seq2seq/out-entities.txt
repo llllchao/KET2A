@@ -1,0 +1,16 @@
+0	detect
+1	approach
+2	adjust
+3	suck
+4	lift
+5	place
+6	pull
+7	insert
+8	push
+9	raise
+10	press
+11	align
+12	grasp
+13	clamp
+14	release
+15	screw

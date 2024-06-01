@@ -1,0 +1,609 @@
+material_area DIN_connector_23 DIN_male	detect approach align grasp lift
+material_area battery_connector_11 battery	detect approach align grasp lift
+material_area SIM_holder_2 SIM_holder	detect approach align suck lift
+material_area usb_3 usb_male	detect approach align grasp lift
+material_area screw_0 M3 Peg-in-hole	detect approach grasp lift
+material_area usb_23 usb_male	detect approach align grasp lift
+material_area aviation_plug_15 aviation_plug	detect approach align grasp lift
+location_area rear_camera_8	detect approach adjust place suck lift
+location_area FFC_13	detect approach adjust place suck lift
+assembly_area high-voltage_connector_43 high-voltage_connector	detect approach align insert
+assembly_area high-voltage_connector_61 high-voltage_connector	detect approach align insert
+assembly_area PCB_6 hole Peg-in-Hole	detect approach align screw
+assembly_area aviation_plug_11 aviation_female	detect approach screw release
+assembly_area battery_connector_44 battery_connector	detect approach align insert
+location_area aviation_plug_19 aviation_plug_female	detect approach adjust insert release
+assembly_area FFC_32 FFC_female	detect approach pull insert push
+material_area usb_6 usb_male	detect approach align grasp lift
+material_area battery_connector_6 battery	detect approach align grasp lift
+assembly_area usb_43 FFC_female	detect approach align insert
+assembly_area high-voltage_connector_88 high-voltage_connector	detect approach align insert
+assembly_area usb_0 FFC_female	detect approach align insert
+location_area FFC_30	detect approach adjust place suck lift
+material_area DIN_connector_5 DIN_male	detect approach align grasp lift
+assembly_area aviation_plug_15 aviation_female	detect approach screw release
+material_area usb_13 usb_male	detect approach align grasp lift
+assembly_area high-voltage_connector_97 high-voltage_connector	detect approach align insert
+material_area screw_19 M4 Peg-in-hole	detect approach grasp lift
+assembly_area FFC_1 FFC_female	detect approach pull insert push
+material_area FFC_30 FFC_male	detect approach adjust suck lift
+assembly_area high-voltage_connector_25 high-voltage_connector	detect approach align insert
+material_area high-voltage_connector_41	detect approach align grasp lift
+assembly_area SIM_holder_9	detect approach align insert press
+assembly_area DIN_connector_21 DIN_female	detect approach align insert press
+material_area hose_plug_3 hose_plug	detect approach align grasp lift
+material_area aviation_plug_7 aviation_plug	detect approach align grasp lift
+material_area usb_22 usb_male	detect approach align grasp lift
+location_area aviation_plug_12 aviation_plug_female	detect approach adjust insert release
+assembly_area FFC_12 FFC_female	detect approach pull insert push
+material_area aviation_plug_10 aviation_plug	detect approach align grasp lift
+assembly_area battery_connector_3 battery_connector	detect approach align insert
+assembly_area high-voltage_connector_33 high-voltage_connector	detect approach align insert
+assembly_area high-voltage_connector_54 high-voltage_connector	detect approach align insert
+assembly_area usb_31 FFC_female	detect approach align insert
+assembly_area screw_0 hole Peg-in-Hole	detect approach align screw
+material_area screw_4 M3 Peg-in-hole	detect approach grasp lift
+assembly_area ethernet_connector_2 Rj45_female	detect approach align push press
+assembly_area aviation_plug_7 aviation_female	detect approach screw release
+material_area DIN_connector_20 DIN_male	detect approach align grasp lift
+material_area hose_plug_1 hose_plug	detect approach align grasp lift
+material_area high-voltage_connector_61	detect approach align grasp lift
+material_area usb_31 usb_male	detect approach align grasp lift
+material_area aviation_plug_3 aviation_plug	detect approach align grasp lift
+assembly_area DIN_connector_11 DIN_female	detect approach align insert press
+material_area DIN_connector_18 DIN_male	detect approach align grasp lift
+material_area high-voltage_connector_69	detect approach align grasp lift
+assembly_area high-voltage_connector_86 high-voltage_connector	detect approach align insert
+material_area high-voltage_connector_18	detect approach align grasp lift
+assembly_area high-voltage_connector_31 high-voltage_connector	detect approach align insert
+assembly_area optical_fiber_connector_26 optical_fiber_connector	detect approach align insert
+material_area high-voltage_connector_44	detect approach align grasp lift
+assembly_area usb_15 FFC_female	detect approach align insert
+material_area battery_connector_13 battery	detect approach align grasp lift
+material_area usb_20 usb_male	detect approach align grasp lift
+material_area FFC_26 FFC_male	detect approach adjust suck lift
+assembly_area snap_rivet_2 hole Peg-in-Hole	detect approach align place press
+material_area FFC_9 FFC_male	detect approach adjust suck lift
+assembly_area ethernet_connector_3 Rj45_female	detect approach align push press
+material_area high-voltage_connector_4	detect approach align grasp lift
+material_area usb_28 usb_male	detect approach align grasp lift
+material_area FFC_19 FFC_male	detect approach adjust suck lift
+assembly_area PCB_14 hole Peg-in-Hole	detect approach align screw
+material_area snap_rivet_1 Peg-in-hole	detect approach grasp lift
+assembly_area battery_connector_47 battery_connector	detect approach align insert
+material_area DIN_connector_11 DIN_male	detect approach align grasp lift
+location_area aviation_plug_8 aviation_plug_female	detect approach adjust insert release
+material_area DIN_connector_6 DIN_male	detect approach align grasp lift
+material_area usb_45 usb_male	detect approach align grasp lift
+material_area motor_4	detect approach align grasp lift
+assembly_area optical_fiber_connector_15 optical_fiber_connector	detect approach align insert
+material_area motor_3	detect approach align grasp lift
+location_area FFC_0	detect approach adjust place suck lift
+assembly_area snap_rivet_0 hole Peg-in-Hole	detect approach align place press
+assembly_area rear_camera_1 camera_slot Peg-in-hole	detect approach align place press
+assembly_area motor_16 motor_slot Peg-in-hole	detect approach align place press
+location_area FFC_10	detect approach adjust place suck lift
+material_area DIN_connector_2 DIN_male	detect approach align grasp lift
+material_area snap_rivet_0 Peg-in-hole	detect approach grasp lift
+material_area battery_connector_60 battery	detect approach align grasp lift
+material_area battery_connector_45 battery	detect approach align grasp lift
+assembly_area high-voltage_connector_30 high-voltage_connector	detect approach align insert
+material_area SIM_holder_8 SIM_holder	detect approach align suck lift
+material_area LSA_connector_9 LSA_male	detect approach align grasp lift
+material_area PCB_1 PCB_board	detect approach grasp lift
+assembly_area rear_camera_3 camera_slot Peg-in-hole	detect approach align place press
+assembly_area FFC_29 FFC_female	detect approach raise insert press
+assembly_area battery_connector_55 battery_connector	detect approach align insert
+assembly_area motor_2 motor_slot Peg-in-hole	detect approach align place press
+material_area high-voltage_connector_88	detect approach align grasp lift
+assembly_area high-voltage_connector_76 high-voltage_connector	detect approach align insert
+assembly_area screw_2 hole Peg-in-Hole	detect approach align screw
+location_area rear_camera_0	detect approach adjust place suck lift
+assembly_area FFC_34 FFC_female	detect approach pull insert push
+material_area aviation_plug_6 aviation_plug	detect approach align grasp lift
+assembly_area FFC_35 FFC_female	detect approach pull insert push
+material_area high-voltage_connector_77	detect approach align grasp lift
+material_area coaxial_line_1 coaxial_male	detect approach align clamp lift
+assembly_area high-voltage_connector_85 high-voltage_connector	detect approach align insert
+assembly_area aviation_plug_14 aviation_female	detect approach screw release
+assembly_area FFC_30 FFC_female	detect approach pull insert push
+material_area usb_8 usb_male	detect approach align grasp lift
+assembly_area usb_47 FFC_female	detect approach align insert
+assembly_area FFC_16 FFC_female	detect approach pull insert push
+assembly_area rear_camera_7 camera_slot Peg-in-hole	detect approach align place press
+assembly_area high-voltage_connector_81 high-voltage_connector	detect approach align insert
+material_area usb_16 usb_male	detect approach align grasp lift
+material_area LSA_connector_7 LSA_male	detect approach align grasp lift
+assembly_area battery_connector_68 battery_connector	detect approach align insert
+material_area high-voltage_connector_62	detect approach align grasp lift
+assembly_area high-voltage_connector_98 high-voltage_connector	detect approach align insert
+material_area rear_camera_9 rear_camera	detect approach align suck lift
+material_area high-voltage_connector_16	detect approach align grasp lift
+location_area FFC_7	detect approach adjust place suck lift
+assembly_area high-voltage_connector_17 high-voltage_connector	detect approach align insert
+assembly_area optical_fiber_connector_12 optical_fiber_connector	detect approach align insert
+assembly_area battery_connector_64 battery_connector	detect approach align insert
+material_area high-voltage_connector_89	detect approach align grasp lift
+assembly_area hose_plug_6 hose_socket	detect approach align insert screw
+assembly_area PCB_8 hole Peg-in-Hole	detect approach align screw
+assembly_area ethernet_connector_8 Rj45_female	detect approach align push press
+assembly_area motor_14 motor_slot Peg-in-hole	detect approach align place press
+material_area SIM_holder_5 SIM_holder	detect approach align suck lift
+material_area high-voltage_connector_32	detect approach align grasp lift
+location_area FFC_9	detect approach adjust place suck lift
+material_area battery_connector_47 battery	detect approach align grasp lift
+assembly_area coaxial_line_0 coaxial_female	detect approach align insert press
+material_area ethernet_connector_8 Rj45_male	detect approach align grasp lift
+material_area high-voltage_connector_31	detect approach align grasp lift
+material_area DIN_connector_29 DIN_male	detect approach align grasp lift
+material_area high-voltage_connector_19	detect approach align grasp lift
+assembly_area FFC_13 FFC_female	detect approach pull insert push
+assembly_area hose_plug_1 hose_socket	detect approach align insert screw
+material_area ethernet_connector_5 Rj45_male	detect approach align grasp lift
+material_area high-voltage_connector_37	detect approach align grasp lift
+assembly_area DIN_connector_13 DIN_female	detect approach align insert press
+material_area rear_cover_8 rear_cover	detect approach align suck lift
+assembly_area PCB_3 hole Peg-in-Hole	detect approach align screw
+assembly_area rear_cover_4	detect approach align place press
+material_area FFC_18 FFC_male	detect approach adjust suck lift
+material_area usb_0 usb_male	detect approach align grasp lift
+location_area FFC_33	detect approach adjust place suck lift
+material_area usb_15 usb_male	detect approach align grasp lift
+assembly_area FFC_31 FFC_female	detect approach pull insert push
+material_area snap_rivet_2 Peg-in-hole	detect approach grasp lift
+material_area high-voltage_connector_80	detect approach align grasp lift
+assembly_area motor_13 motor_slot Peg-in-hole	detect approach align place press
+assembly_area battery_connector_49 battery_connector	detect approach align insert
+assembly_area high-voltage_connector_62 high-voltage_connector	detect approach align insert
+assembly_area DIN_connector_19 DIN_female	detect approach align insert press
+location_area aviation_plug_5 aviation_plug_female	detect approach adjust insert release
+assembly_area usb_21 FFC_female	detect approach align insert
+assembly_area usb_29 FFC_female	detect approach align insert
+assembly_area motor_12 motor_slot Peg-in-hole	detect approach align place press
+assembly_area optical_fiber_connector_7 optical_fiber_connector	detect approach align insert
+location_area aviation_plug_16 aviation_plug_female	detect approach adjust insert release
+assembly_area DIN_connector_3 DIN_female	detect approach align insert press
+material_area high-voltage_connector_0	detect approach align grasp lift
+material_area screw_2 M3 Peg-in-hole	detect approach grasp lift
+material_area SIM_holder_9 SIM_holder	detect approach align suck lift
+assembly_area aviation_plug_9 aviation_female	detect approach screw release
+material_area motor_0	detect approach align grasp lift
+location_area FFC_17	detect approach adjust place suck lift
+assembly_area DIN_connector_26 DIN_female	detect approach align insert press
+assembly_area screw_7 hole Peg-in-Hole	detect approach align screw
+material_area battery_connector_30 battery	detect approach align grasp lift
+assembly_area screw_8 hole Peg-in-Hole	detect approach align screw
+material_area FFC_33 FFC_male	detect approach adjust suck lift
+location_area coaxial_line_6	detect approach adjust place clamp lift
+material_area battery_connector_1 battery	detect approach align grasp lift
+assembly_area battery_connector_38 battery_connector	detect approach align insert
+assembly_area ethernet_connector_7 Rj45_female	detect approach align push press
+assembly_area high-voltage_connector_2 high-voltage_connector	detect approach align insert
+assembly_area high-voltage_connector_66 high-voltage_connector	detect approach align insert
+assembly_area DIN_connector_6 DIN_female	detect approach align insert press
+material_area high-voltage_connector_87	detect approach align grasp lift
+material_area rear_camera_1 rear_camera	detect approach align suck lift
+assembly_area FFC_37 FFC_female	detect approach pull insert push
+material_area ethernet_connector_3 Rj45_male	detect approach align grasp lift
+assembly_area high-voltage_connector_46 high-voltage_connector	detect approach align insert
+material_area screw_5 M3 Peg-in-hole	detect approach grasp lift
+material_area high-voltage_connector_78	detect approach align grasp lift
+material_area motor_10	detect approach align grasp lift
+assembly_area optical_fiber_connector_29 optical_fiber_connector	detect approach align insert
+assembly_area high-voltage_connector_89 high-voltage_connector	detect approach align insert
+material_area DIN_connector_7 DIN_male	detect approach align grasp lift
+assembly_area high-voltage_connector_63 high-voltage_connector	detect approach align insert
+material_area battery_connector_43 battery	detect approach align grasp lift
+assembly_area battery_connector_18 battery_connector	detect approach align insert
+material_area coaxial_line_2 coaxial_male	detect approach align clamp lift
+assembly_area FFC_19 FFC_female	detect approach pull insert push
+assembly_area high-voltage_connector_60 high-voltage_connector	detect approach align insert
+assembly_area aviation_plug_1 aviation_female	detect approach screw release
+assembly_area high-voltage_connector_53 high-voltage_connector	detect approach align insert
+assembly_area PCB_4 hole Peg-in-Hole	detect approach align screw
+assembly_area LSA_connector_5 LSA_socket	detect approach align insert
+material_area battery_connector_65 battery	detect approach align grasp lift
+assembly_area FFC_23 FFC_female	detect approach raise insert press
+material_area high-voltage_connector_1	detect approach align grasp lift
+material_area high-voltage_connector_25	detect approach align grasp lift
+material_area motor_11	detect approach align grasp lift
+assembly_area battery_connector_50 battery_connector	detect approach align insert
+material_area aviation_plug_4 aviation_plug	detect approach align grasp lift
+assembly_area coaxial_line_7 coaxial_female	detect approach align insert press
+assembly_area optical_fiber_connector_11 optical_fiber_connector	detect approach align insert
+material_area usb_24 usb_male	detect approach align grasp lift
+material_area battery_connector_58 battery	detect approach align grasp lift
+assembly_area DIN_connector_4 DIN_female	detect approach align insert press
+assembly_area usb_13 FFC_female	detect approach align insert
+assembly_area LSA_connector_9 LSA_socket	detect approach align insert
+material_area usb_14 usb_male	detect approach align grasp lift
+assembly_area screw_13 hole Peg-in-Hole	detect approach align screw
+material_area DIN_connector_21 DIN_male	detect approach align grasp lift
+assembly_area high-voltage_connector_95 high-voltage_connector	detect approach align insert
+assembly_area aviation_plug_19 aviation_female	detect approach screw release
+assembly_area rear_cover_8	detect approach align place press
+location_area FFC_18	detect approach adjust place suck lift
+material_area battery_connector_54 battery	detect approach align grasp lift
+material_area usb_17 usb_male	detect approach align grasp lift
+assembly_area FFC_8 FFC_female	detect approach pull insert push
+material_area usb_30 usb_male	detect approach align grasp lift
+assembly_area battery_connector_0 battery_connector	detect approach align insert
+material_area high-voltage_connector_95	detect approach align grasp lift
+material_area FFC_1 FFC_male	detect approach adjust suck lift
+assembly_area battery_connector_69 battery_connector	detect approach align insert
+assembly_area high-voltage_connector_51 high-voltage_connector	detect approach align insert
+material_area snap_rivet_8 Peg-in-hole	detect approach grasp lift
+assembly_area usb_18 FFC_female	detect approach align insert
+material_area high-voltage_connector_84	detect approach align grasp lift
+assembly_area battery_connector_31 battery_connector	detect approach align insert
+material_area high-voltage_connector_70	detect approach align grasp lift
+assembly_area DIN_connector_9 DIN_female	detect approach align insert press
+material_area DIN_connector_12 DIN_male	detect approach align grasp lift
+material_area high-voltage_connector_72	detect approach align grasp lift
+material_area FFC_36 FFC_male	detect approach adjust suck lift
+assembly_area aviation_plug_2 aviation_female	detect approach screw release
+assembly_area rear_cover_5	detect approach align place press
+material_area rear_camera_5 rear_camera	detect approach align suck lift
+location_area aviation_plug_11 aviation_plug_female	detect approach adjust insert release
+assembly_area DIN_connector_0 DIN_female	detect approach align insert press
+material_area LSA_connector_6 LSA_male	detect approach align grasp lift
+assembly_area optical_fiber_connector_6 optical_fiber_connector	detect approach align insert
+material_area high-voltage_connector_47	detect approach align grasp lift
+assembly_area DIN_connector_16 DIN_female	detect approach align insert press
+material_area DIN_connector_28 DIN_male	detect approach align grasp lift
+material_area aviation_plug_5 aviation_plug	detect approach align grasp lift
+assembly_area high-voltage_connector_16 high-voltage_connector	detect approach align insert
+assembly_area FFC_36 FFC_female	detect approach pull insert push
+material_area SIM_holder_0 SIM_holder	detect approach align suck lift
+material_area motor_13	detect approach align grasp lift
+assembly_area high-voltage_connector_39 high-voltage_connector	detect approach align insert
+assembly_area DIN_connector_28 DIN_female	detect approach align insert press
+location_area coaxial_line_0	detect approach adjust place clamp lift
+assembly_area snap_rivet_9 hole Peg-in-Hole	detect approach align place press
+material_area FFC_2 FFC_male	detect approach adjust suck lift
+assembly_area LSA_connector_7 LSA_socket	detect approach align insert
+material_area hose_plug_8 hose_plug	detect approach align grasp lift
+material_area PCB_0 PCB_board	detect approach grasp lift
+assembly_area usb_41 FFC_female	detect approach align insert
+material_area battery_connector_67 battery	detect approach align grasp lift
+assembly_area snap_rivet_4 hole Peg-in-Hole	detect approach align place press
+material_area battery_connector_51 battery	detect approach align grasp lift
+material_area DIN_connector_16 DIN_male	detect approach align grasp lift
+assembly_area optical_fiber_connector_28 optical_fiber_connector	detect approach align insert
+assembly_area ethernet_connector_6 Rj45_female	detect approach align push press
+assembly_area aviation_plug_4 aviation_female	detect approach screw release
+location_area aviation_plug_10 aviation_plug_female	detect approach adjust insert release
+material_area screw_9 M3 Peg-in-hole	detect approach grasp lift
+material_area optical_fiber_connector_11 optical_fiber	detect approach align grasp lift
+assembly_area optical_fiber_connector_4 optical_fiber_connector	detect approach align insert
+material_area rear_camera_8 rear_camera	detect approach align suck lift
+material_area DIN_connector_3 DIN_male	detect approach align grasp lift
+assembly_area coaxial_line_2 coaxial_female	detect approach align insert press
+location_area coaxial_line_2	detect approach adjust place clamp lift
+assembly_area high-voltage_connector_28 high-voltage_connector	detect approach align insert
+assembly_area FFC_25 FFC_female	detect approach raise insert press
+material_area optical_fiber_connector_2 optical_fiber	detect approach align grasp lift
+assembly_area battery_connector_4 battery_connector	detect approach align insert
+material_area high-voltage_connector_60	detect approach align grasp lift
+location_area FFC_32	detect approach adjust place suck lift
+assembly_area motor_5 motor_slot Peg-in-hole	detect approach align place press
+assembly_area LSA_connector_1 LSA_socket	detect approach align insert
+assembly_area battery_connector_42 battery_connector	detect approach align insert
+material_area DIN_connector_15 DIN_male	detect approach align grasp lift
+material_area high-voltage_connector_21	detect approach align grasp lift
+material_area high-voltage_connector_6	detect approach align grasp lift
+assembly_area battery_connector_1 battery_connector	detect approach align insert
+material_area usb_43 usb_male	detect approach align grasp lift
+material_area coaxial_line_7 coaxial_male	detect approach align clamp lift
+assembly_area high-voltage_connector_13 high-voltage_connector	detect approach align insert
+assembly_area usb_6 FFC_female	detect approach align insert
+assembly_area FFC_5 FFC_female	detect approach pull insert push
+assembly_area coaxial_line_6 coaxial_female	detect approach align insert press
+material_area high-voltage_connector_86	detect approach align grasp lift
+assembly_area high-voltage_connector_91 high-voltage_connector	detect approach align insert
+assembly_area snap_rivet_5 hole Peg-in-Hole	detect approach align place press
+assembly_area optical_fiber_connector_2 optical_fiber_connector	detect approach align insert
+assembly_area usb_42 FFC_female	detect approach align insert
+material_area high-voltage_connector_71	detect approach align grasp lift
+location_area FFC_3	detect approach adjust place suck lift
+material_area usb_27 usb_male	detect approach align grasp lift
+assembly_area battery_connector_13 battery_connector	detect approach align insert
+assembly_area FFC_17 FFC_female	detect approach pull insert push
+material_area high-voltage_connector_36	detect approach align grasp lift
+assembly_area battery_connector_2 battery_connector	detect approach align insert
+material_area high-voltage_connector_83	detect approach align grasp lift
+material_area FFC_15 FFC_male	detect approach adjust suck lift
+material_area high-voltage_connector_34	detect approach align grasp lift
+material_area snap_rivet_6 Peg-in-hole	detect approach grasp lift
+material_area screw_8 M3 Peg-in-hole	detect approach grasp lift
+assembly_area battery_connector_35 battery_connector	detect approach align insert
+material_area battery_connector_57 battery	detect approach align grasp lift
+assembly_area optical_fiber_connector_22 optical_fiber_connector	detect approach align insert
+assembly_area aviation_plug_12 aviation_female	detect approach screw release
+material_area DIN_connector_27 DIN_male	detect approach align grasp lift
+material_area optical_fiber_connector_26 optical_fiber	detect approach align grasp lift
+assembly_area coaxial_line_8 coaxial_female	detect approach align insert press
+material_area high-voltage_connector_75	detect approach align grasp lift
+assembly_area high-voltage_connector_84 high-voltage_connector	detect approach align insert
+material_area usb_21 usb_male	detect approach align grasp lift
+material_area usb_42 usb_male	detect approach align grasp lift
+assembly_area SIM_holder_8	detect approach align insert press
+assembly_area high-voltage_connector_96 high-voltage_connector	detect approach align insert
+assembly_area FFC_20 FFC_female	detect approach raise insert press
+material_area usb_41 usb_male	detect approach align grasp lift
+material_area high-voltage_connector_5	detect approach align grasp lift
+assembly_area FFC_26 FFC_female	detect approach raise insert press
+material_area high-voltage_connector_20	detect approach align grasp lift
+assembly_area usb_24 FFC_female	detect approach align insert
+assembly_area aviation_plug_8 aviation_female	detect approach screw release
+material_area rear_camera_6 rear_camera	detect approach align suck lift
+material_area optical_fiber_connector_10 optical_fiber	detect approach align grasp lift
+material_area optical_fiber_connector_3 optical_fiber	detect approach align grasp lift
+material_area aviation_plug_9 aviation_plug	detect approach align grasp lift
+location_area FFC_8	detect approach adjust place suck lift
+material_area high-voltage_connector_57	detect approach align grasp lift
+material_area screw_6 M3 Peg-in-hole	detect approach grasp lift
+material_area high-voltage_connector_28	detect approach align grasp lift
+material_area hose_plug_7 hose_plug	detect approach align grasp lift
+assembly_area coaxial_line_3 coaxial_female	detect approach align insert press
+material_area high-voltage_connector_67	detect approach align grasp lift
+material_area snap_rivet_4 Peg-in-hole	detect approach grasp lift
+location_area FFC_25	detect approach adjust place suck lift
+material_area battery_connector_10 battery	detect approach align grasp lift
+material_area battery_connector_37 battery	detect approach align grasp lift
+location_area FFC_23	detect approach adjust place suck lift
+material_area motor_5	detect approach align grasp lift
+assembly_area screw_3 hole Peg-in-Hole	detect approach align screw
+assembly_area PCB_1 hole Peg-in-Hole	detect approach align screw
+material_area high-voltage_connector_81	detect approach align grasp lift
+material_area DIN_connector_0 DIN_male	detect approach align grasp lift
+assembly_area usb_46 FFC_female	detect approach align insert
+assembly_area aviation_plug_13 aviation_female	detect approach screw release
+material_area battery_connector_46 battery	detect approach align grasp lift
+material_area DIN_connector_4 DIN_male	detect approach align grasp lift
+assembly_area usb_26 FFC_female	detect approach align insert
+assembly_area battery_connector_30 battery_connector	detect approach align insert
+assembly_area usb_34 FFC_female	detect approach align insert
+material_area high-voltage_connector_74	detect approach align grasp lift
+material_area battery_connector_15 battery	detect approach align grasp lift
+assembly_area battery_connector_61 battery_connector	detect approach align insert
+assembly_area high-voltage_connector_50 high-voltage_connector	detect approach align insert
+assembly_area usb_28 FFC_female	detect approach align insert
+material_area usb_34 usb_male	detect approach align grasp lift
+assembly_area high-voltage_connector_48 high-voltage_connector	detect approach align insert
+assembly_area high-voltage_connector_7 high-voltage_connector	detect approach align insert
+location_area FFC_22	detect approach adjust place suck lift
+assembly_area motor_4 motor_slot Peg-in-hole	detect approach align place press
+material_area aviation_plug_17 aviation_plug	detect approach align grasp lift
+material_area aviation_plug_19 aviation_plug	detect approach align grasp lift
+material_area optical_fiber_connector_6 optical_fiber	detect approach align grasp lift
+assembly_area DIN_connector_1 DIN_female	detect approach align insert press
+material_area high-voltage_connector_29	detect approach align grasp lift
+location_area FFC_11	detect approach adjust place suck lift
+assembly_area FFC_21 FFC_female	detect approach raise insert press
+material_area high-voltage_connector_59	detect approach align grasp lift
+assembly_area screw_4 hole Peg-in-Hole	detect approach align screw
+material_area optical_fiber_connector_21 optical_fiber	detect approach align grasp lift
+material_area FFC_25 FFC_male	detect approach adjust suck lift
+assembly_area usb_38 FFC_female	detect approach align insert
+location_area aviation_plug_7 aviation_plug_female	detect approach adjust insert release
+material_area motor_2	detect approach align grasp lift
+assembly_area PCB_9 hole Peg-in-Hole	detect approach align screw
+material_area optical_fiber_connector_14 optical_fiber	detect approach align grasp lift
+location_area FFC_31	detect approach adjust place suck lift
+assembly_area battery_connector_15 battery_connector	detect approach align insert
+material_area FFC_10 FFC_male	detect approach adjust suck lift
+material_area FFC_28 FFC_male	detect approach adjust suck lift
+assembly_area high-voltage_connector_44 high-voltage_connector	detect approach align insert
+assembly_area FFC_18 FFC_female	detect approach pull insert push
+material_area battery_connector_36 battery	detect approach align grasp lift
+assembly_area optical_fiber_connector_8 optical_fiber_connector	detect approach align insert
+material_area high-voltage_connector_94	detect approach align grasp lift
+assembly_area screw_16 hole Peg-in-Hole	detect approach align screw
+material_area usb_11 usb_male	detect approach align grasp lift
+assembly_area high-voltage_connector_80 high-voltage_connector	detect approach align insert
+assembly_area coaxial_line_9 coaxial_female	detect approach align insert press
+location_area rear_camera_9	detect approach adjust place suck lift
+location_area FFC_4	detect approach adjust place suck lift
+assembly_area motor_1 motor_slot Peg-in-hole	detect approach align place press
+material_area screw_1 M3 Peg-in-hole	detect approach grasp lift
+location_area coaxial_line_8	detect approach adjust place clamp lift
+material_area optical_fiber_connector_17 optical_fiber	detect approach align grasp lift
+material_area DIN_connector_25 DIN_male	detect approach align grasp lift
+assembly_area high-voltage_connector_37 high-voltage_connector	detect approach align insert
+assembly_area battery_connector_53 battery_connector	detect approach align insert
+assembly_area FFC_10 FFC_female	detect approach pull insert push
+material_area motor_14	detect approach align grasp lift
+material_area DIN_connector_19 DIN_male	detect approach align grasp lift
+assembly_area motor_3 motor_slot Peg-in-hole	detect approach align place press
+material_area rear_camera_0 rear_camera	detect approach align suck lift
+assembly_area FFC_0 FFC_female	detect approach pull insert push
+assembly_area FFC_33 FFC_female	detect approach pull insert push
+material_area battery_connector_31 battery	detect approach align grasp lift
+location_area aviation_plug_15 aviation_plug_female	detect approach adjust insert release
+material_area FFC_38 FFC_male	detect approach adjust suck lift
+material_area aviation_plug_2 aviation_plug	detect approach align grasp lift
+assembly_area usb_30 FFC_female	detect approach align insert
+material_area FFC_6 FFC_male	detect approach adjust suck lift
+assembly_area ethernet_connector_5 Rj45_female	detect approach align push press
+location_area rear_camera_4	detect approach adjust place suck lift
+material_area coaxial_line_0 coaxial_male	detect approach align clamp lift
+assembly_area battery_connector_66 battery_connector	detect approach align insert
+material_area usb_47 usb_male	detect approach align grasp lift
+assembly_area high-voltage_connector_57 high-voltage_connector	detect approach align insert
+location_area SIM_holder_5	detect approach adjust place clamp lift
+assembly_area SIM_holder_6	detect approach align insert press
+material_area high-voltage_connector_73	detect approach align grasp lift
+assembly_area DIN_connector_22 DIN_female	detect approach align insert press
+material_area battery_connector_5 battery	detect approach align grasp lift
+material_area battery_connector_50 battery	detect approach align grasp lift
+assembly_area DIN_connector_15 DIN_female	detect approach align insert press
+material_area FFC_32 FFC_male	detect approach adjust suck lift
+assembly_area DIN_connector_18 DIN_female	detect approach align insert press
+assembly_area battery_connector_52 battery_connector	detect approach align insert
+material_area DIN_connector_22 DIN_male	detect approach align grasp lift
+material_area PCB_2 PCB_board	detect approach grasp lift
+assembly_area high-voltage_connector_94 high-voltage_connector	detect approach align insert
+assembly_area SIM_holder_5	detect approach align insert press
+material_area FFC_8 FFC_male	detect approach adjust suck lift
+material_area optical_fiber_connector_7 optical_fiber	detect approach align grasp lift
+material_area LSA_connector_4 LSA_male	detect approach align grasp lift
+assembly_area SIM_holder_7	detect approach align insert press
+material_area rear_cover_4 rear_cover	detect approach align suck lift
+material_area high-voltage_connector_27	detect approach align grasp lift
+material_area optical_fiber_connector_13 optical_fiber	detect approach align grasp lift
+assembly_area battery_connector_60 battery_connector	detect approach align insert
+assembly_area rear_cover_3	detect approach align place press
+assembly_area high-voltage_connector_19 high-voltage_connector	detect approach align insert
+assembly_area aviation_plug_0 aviation_female	detect approach screw release
+assembly_area ethernet_connector_1 Rj45_female	detect approach align push press
+assembly_area DIN_connector_25 DIN_female	detect approach align insert press
+assembly_area high-voltage_connector_8 high-voltage_connector	detect approach align insert
+material_area FFC_11 FFC_male	detect approach adjust suck lift
+assembly_area high-voltage_connector_15 high-voltage_connector	detect approach align insert
+location_area aviation_plug_0 aviation_plug_female	detect approach adjust insert release
+material_area FFC_39 FFC_male	detect approach adjust suck lift
+location_area aviation_plug_13 aviation_plug_female	detect approach adjust insert release
+assembly_area coaxial_line_4 coaxial_female	detect approach align insert press
+assembly_area high-voltage_connector_59 high-voltage_connector	detect approach align insert
+material_area motor_12	detect approach align grasp lift
+material_area usb_33 usb_male	detect approach align grasp lift
+location_area coaxial_line_4	detect approach adjust place clamp lift
+material_area high-voltage_connector_53	detect approach align grasp lift
+assembly_area aviation_plug_5 aviation_female	detect approach screw release
+material_area screw_13 M3 Peg-in-hole	detect approach grasp lift
+material_area aviation_plug_18 aviation_plug	detect approach align grasp lift
+assembly_area screw_1 hole Peg-in-Hole	detect approach align screw
+material_area battery_connector_33 battery	detect approach align grasp lift
+material_area high-voltage_connector_7	detect approach align grasp lift
+material_area usb_12 usb_male	detect approach align grasp lift
+material_area battery_connector_63 battery	detect approach align grasp lift
+assembly_area high-voltage_connector_67 high-voltage_connector	detect approach align insert
+assembly_area usb_35 FFC_female	detect approach align insert
+assembly_area rear_cover_2	detect approach align place press
+assembly_area high-voltage_connector_12 high-voltage_connector	detect approach align insert
+material_area hose_plug_2 hose_plug	detect approach align grasp lift
+assembly_area high-voltage_connector_93 high-voltage_connector	detect approach align insert
+material_area battery_connector_55 battery	detect approach align grasp lift
+material_area FFC_14 FFC_male	detect approach adjust suck lift
+location_area FFC_39	detect approach adjust place suck lift
+material_area motor_6	detect approach align grasp lift
+assembly_area PCB_5 hole Peg-in-Hole	detect approach align screw
+material_area rear_cover_5 rear_cover	detect approach align suck lift
+assembly_area screw_5 hole Peg-in-Hole	detect approach align screw
+material_area battery_connector_68 battery	detect approach align grasp lift
+assembly_area battery_connector_43 battery_connector	detect approach align insert
+assembly_area usb_48 FFC_female	detect approach align insert
+assembly_area high-voltage_connector_45 high-voltage_connector	detect approach align insert
+material_area LSA_connector_3 LSA_male	detect approach align grasp lift
+material_area high-voltage_connector_9	detect approach align grasp lift
+material_area high-voltage_connector_64	detect approach align grasp lift
+material_area high-voltage_connector_93	detect approach align grasp lift
+assembly_area battery_connector_10 battery_connector	detect approach align insert
+assembly_area LSA_connector_8 LSA_socket	detect approach align insert
+location_area aviation_plug_2 aviation_plug_female	detect approach adjust insert release
+assembly_area high-voltage_connector_55 high-voltage_connector	detect approach align insert
+material_area high-voltage_connector_99	detect approach align grasp lift
+assembly_area usb_4 FFC_female	detect approach align insert
+assembly_area usb_33 FFC_female	detect approach align insert
+assembly_area optical_fiber_connector_14 optical_fiber_connector	detect approach align insert
+location_area FFC_27	detect approach adjust place suck lift
+material_area usb_32 usb_male	detect approach align grasp lift
+material_area high-voltage_connector_11	detect approach align grasp lift
+assembly_area battery_connector_11 battery_connector	detect approach align insert
+assembly_area FFC_14 FFC_female	detect approach pull insert push
+assembly_area high-voltage_connector_40 high-voltage_connector	detect approach align insert
+material_area optical_fiber_connector_4 optical_fiber	detect approach align grasp lift
+material_area optical_fiber_connector_23 optical_fiber	detect approach align grasp lift
+material_area high-voltage_connector_42	detect approach align grasp lift
+material_area battery_connector_40 battery	detect approach align grasp lift
+assembly_area high-voltage_connector_90 high-voltage_connector	detect approach align insert
+assembly_area rear_camera_9 camera_slot Peg-in-hole	detect approach align place press
+assembly_area FFC_11 FFC_female	detect approach pull insert push
+location_area aviation_plug_1 aviation_plug_female	detect approach adjust insert release
+assembly_area high-voltage_connector_35 high-voltage_connector	detect approach align insert
+location_area SIM_holder_7	detect approach adjust place clamp lift
+assembly_area SIM_holder_4	detect approach align insert press
+assembly_area high-voltage_connector_38 high-voltage_connector	detect approach align insert
+assembly_area optical_fiber_connector_3 optical_fiber_connector	detect approach align insert
+material_area rear_cover_0 rear_cover	detect approach align suck lift
+location_area FFC_26	detect approach adjust place suck lift
+assembly_area hose_plug_8 hose_socket	detect approach align insert screw
+assembly_area battery_connector_67 battery_connector	detect approach align insert
+assembly_area battery_connector_58 battery_connector	detect approach align insert
+assembly_area screw_9 hole Peg-in-Hole	detect approach align screw
+assembly_area battery_connector_7 battery_connector	detect approach align insert
+assembly_area usb_17 FFC_female	detect approach align insert
+material_area hose_plug_6 hose_plug	detect approach align grasp lift
+assembly_area high-voltage_connector_64 high-voltage_connector	detect approach align insert
+material_area DIN_connector_9 DIN_male	detect approach align grasp lift
+material_area screw_16 M4 Peg-in-hole	detect approach grasp lift
+location_area rear_camera_3	detect approach adjust place suck lift
+material_area usb_39 usb_male	detect approach align grasp lift
+material_area FFC_4 FFC_male	detect approach adjust suck lift
+material_area PCB_12 PCB_board	detect approach grasp lift
+assembly_area hose_plug_5 hose_socket	detect approach align insert screw
+assembly_area high-voltage_connector_6 high-voltage_connector	detect approach align insert
+material_area DIN_connector_10 DIN_male	detect approach align grasp lift
+assembly_area optical_fiber_connector_9 optical_fiber_connector	detect approach align insert
+material_area optical_fiber_connector_12 optical_fiber	detect approach align grasp lift
+material_area motor_1	detect approach align grasp lift
+assembly_area high-voltage_connector_1 high-voltage_connector	detect approach align insert
+assembly_area PCB_11 hole Peg-in-Hole	detect approach align screw
+material_area motor_7	detect approach align grasp lift
+location_area FFC_34	detect approach adjust place suck lift
+material_area high-voltage_connector_33	detect approach align grasp lift
+assembly_area usb_32 FFC_female	detect approach align insert
+assembly_area FFC_39 FFC_female	detect approach pull insert push
+material_area PCB_3 PCB_board	detect approach grasp lift
+material_area usb_5 usb_male	detect approach align grasp lift
+assembly_area FFC_24 FFC_female	detect approach raise insert press
+material_area high-voltage_connector_55	detect approach align grasp lift
+assembly_area usb_49 FFC_female	detect approach align insert
+assembly_area high-voltage_connector_27 high-voltage_connector	detect approach align insert
+assembly_area screw_14 hole Peg-in-Hole	detect approach align screw
+material_area battery_connector_52 battery	detect approach align grasp lift
+material_area coaxial_line_4 coaxial_male	detect approach align clamp lift
+material_area LSA_connector_2 LSA_male	detect approach align grasp lift
+assembly_area DIN_connector_24 DIN_female	detect approach align insert press
+assembly_area FFC_38 FFC_female	detect approach pull insert push
+assembly_area high-voltage_connector_70 high-voltage_connector	detect approach align insert
+assembly_area high-voltage_connector_72 high-voltage_connector	detect approach align insert
+assembly_area aviation_plug_6 aviation_female	detect approach screw release
+material_area battery_connector_53 battery	detect approach align grasp lift
+material_area battery_connector_7 battery	detect approach align grasp lift
+location_area rear_camera_2	detect approach adjust place suck lift
+material_area ethernet_connector_4 Rj45_male	detect approach align grasp lift
+material_area high-voltage_connector_10	detect approach align grasp lift
+material_area battery_connector_39 battery	detect approach align grasp lift
+material_area FFC_7 FFC_male	detect approach adjust suck lift
+assembly_area motor_10 motor_slot Peg-in-hole	detect approach align place press
+material_area battery_connector_69 battery	detect approach align grasp lift
+material_area battery_connector_61 battery	detect approach align grasp lift
+material_area high-voltage_connector_38	detect approach align grasp lift
+material_area battery_connector_35 battery	detect approach align grasp lift
+assembly_area high-voltage_connector_29 high-voltage_connector	detect approach align insert
+location_area FFC_5	detect approach adjust place suck lift
+assembly_area rear_camera_4 camera_slot Peg-in-hole	detect approach align place press
+material_area PCB_8 PCB_board	detect approach grasp lift
+material_area high-voltage_connector_26	detect approach align grasp lift
+material_area battery_connector_42 battery	detect approach align grasp lift
+material_area DIN_connector_8 DIN_male	detect approach align grasp lift
+location_area coaxial_line_5	detect approach adjust place clamp lift
+location_area aviation_plug_4 aviation_plug_female	detect approach adjust insert release
+material_area ethernet_connector_6 Rj45_male	detect approach align grasp lift
+material_area screw_10 M3 Peg-in-hole	detect approach grasp lift
+assembly_area FFC_6 FFC_female	detect approach pull insert push
+assembly_area LSA_connector_2 LSA_socket	detect approach align insert
+material_area FFC_37 FFC_male	detect approach adjust suck lift
+assembly_area FFC_2 FFC_female	detect approach pull insert push
+material_area screw_14 M3 Peg-in-hole	detect approach grasp lift
+assembly_area high-voltage_connector_87 high-voltage_connector	detect approach align insert
+material_area rear_cover_7 rear_cover	detect approach align suck lift
+material_area snap_rivet_7 Peg-in-hole	detect approach grasp lift
+material_area aviation_plug_13 aviation_plug	detect approach align grasp lift
+material_area SIM_holder_3 SIM_holder	detect approach align suck lift
+assembly_area optical_fiber_connector_25 optical_fiber_connector	detect approach align insert
+material_area optical_fiber_connector_5 optical_fiber	detect approach align grasp lift
+material_area screw_3 M3 Peg-in-hole	detect approach grasp lift
+assembly_area usb_44 FFC_female	detect approach align insert

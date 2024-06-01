@@ -1,0 +1,27 @@
+{
+  "seed": 0,
+  "log": "log",
+  "datasets": "A:\\projects\\doing\\KEA2T-final\\datasets\\datasets7",
+  "entity_dim": 768,
+  "batch_size": 64,
+  "pre_train": true,
+  "lang": "cn",
+  "gcn_type": "none",
+  "epochs": 120,
+  "seq2seq_type": "gru2gru",
+  "gcn_args": {
+    "device": "cpu",
+    "hidden_dim": 128,
+    "learning_rate": 0.001,
+    "heads": [
+      2
+    ]
+  },
+  "seq2seq_args": {
+    "device": "cpu",
+    "max_length": 10,
+    "encoder_hidden_dim": 128,
+    "decoder_hidden_dim": 128,
+    "learning_rate": 0.001
+  }
+}
